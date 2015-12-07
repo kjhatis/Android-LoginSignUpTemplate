@@ -11,4 +11,4 @@ The Login Screen template looks similar to this :
 
 The SignUp Screen template looks similar to this :
 
-![ScreenShot](/screenshot2.png)
+![ScreenShot](/screenshots/awsConsoleScreenshot.png)
